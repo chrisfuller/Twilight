@@ -33,7 +33,7 @@
 	<key>DVTSourceTextBackground</key>
 	<string>0.117647 0.117647 0.117647 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>1 0 0.495968 1</string>
+	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.654902 0.654902 0.654902 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>

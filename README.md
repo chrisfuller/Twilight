@@ -19,10 +19,3 @@ both at size `12.0`.
 **Input:**
 
 `$ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Twilight\ -\ Input.dvtcolortheme https://raw.githubusercontent.com/chrisfuller/twilight/master/Twilight%20-%20Input.dvtcolortheme`
-
-### Notes
-
-Xcode provides two theme settings `DVTSourceTextBlockDimBackgroundColor` and `DVTSourceTextInvisiblesColor`
-that do not seem to be used in the Xcode user interface anywhere, so those two attributes have been set to
-a pink color. This is simply for theme debugging purposes and will be updated if and when Xcode utilizes
-those values.
