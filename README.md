@@ -12,11 +12,11 @@ both at size `12.0`.
 
 ### Installation
 
-Menlo:
+**Menlo:**
 
 `$ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Twilight\ -\ Menlo.dvtcolortheme https://raw.githubusercontent.com/chrisfuller/twilight/master/Twilight%20-%20Menlo.dvtcolortheme`
 
-Input:
+**Input:**
 
 `$ curl -o ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Twilight\ -\ Input.dvtcolortheme https://raw.githubusercontent.com/chrisfuller/twilight/master/Twilight%20-%20Input.dvtcolortheme`
 
