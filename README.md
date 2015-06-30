@@ -1,8 +1,8 @@
 # Twilight
 
-A delightful dark "font and color theme" for Xcode inspired by the Twilight theme for [TextMate](https://macromates.com).
+A delightful dark theme for Xcode inspired by the Twilight theme for [TextMate](https://macromates.com).
 
-![Twilight - A delightful dark "font and color theme" for Xcode](https://raw.githubusercontent.com/chrisfuller/twilight/master/twilight.png)
+![Twilight - A delightful dark theme for Xcode](https://raw.githubusercontent.com/chrisfuller/twilight/master/twilight.png)
 
 ### Installation
 
